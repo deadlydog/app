@@ -2,6 +2,6 @@
 {
   public interface IContainRequestInformation
   {
-     
+	  object criteria { get; set; }
   }
 }
