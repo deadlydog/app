@@ -2,7 +2,7 @@
 
 namespace app.tasks.startup
 {
-  public class ConfigureQueries:IRunAStartupStep
+  public class ConfigureQueries
   {
     IProvideContainerRegistrationServices registration;
 

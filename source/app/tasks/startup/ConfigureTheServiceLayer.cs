@@ -16,6 +16,6 @@ namespace app.tasks.startup
       registration.register<GetDepartmentsInDepartment>();
       registration.register<GetProductsInADepartment>();
       registration.register<GetTheMainDepartments>();
-    } 
+    }
   }
 }

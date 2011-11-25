@@ -4,5 +4,6 @@ namespace app.tasks.startup
 {
   public interface IRunAStartupStep : IEncapsulateFunctionality
   {
+
   }
 }
